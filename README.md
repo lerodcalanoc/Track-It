@@ -5,4 +5,4 @@
   * Add, edit and delete your meal input.
   * Add number of calories to your meal.
   * Total number of calories will be automatically generated.
-  * Data input is being saved in the Local Storage.
+  * Input data is being saved in the Local Storage.
