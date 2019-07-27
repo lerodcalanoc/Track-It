@@ -1,4 +1,4 @@
-# Track It
+# TRACK IT
 # An app to track your meals and calories.
 
 ["Click here to launch the app"](https://lerodcalanoc.github.io/Track-It/.)
