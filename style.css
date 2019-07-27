@@ -1,0 +1,13 @@
+.nav-wrapper  {
+    background-image: url("https://images8.alphacoders.com/396/396384.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#brand-logo {
+    color: white;
+    font-size: 45px;
+    background-color: black; opacity: .8;
+    border-radius: 9px
+}
